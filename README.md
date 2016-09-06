@@ -2,7 +2,7 @@
 python program
 - [x] Be awesome
 - [ ] Prepare dinner
-  - [x] Research recipe
-  - [ ] Buy ingredients
-  - [ ] Cook recipe
+- [x] Research recipe
+- [ ] Buy ingredients
+- [ ] Cook recipe
 - [ ] Sleep
