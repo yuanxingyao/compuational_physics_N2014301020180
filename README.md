@@ -8,7 +8,7 @@ student 许亚伦
 - [ ] [Exercise_06](https://github.com/xyl00789/compuational_physics_N2014301020180/blob/master/Exercise_06)
 - [ ] [Exercise_07](https://github.com/xyl00789/compuational_physics_N2014301020180/blob/master/Exercise_07)
 - [ ] [Exercise_08](https://github.com/xyl00789/compuational_physics_N2014301020180/blob/master/Exercise_08)
-- [ } [Exercise_09](https://github.com/xyl00789/compuational_physics_N2014301020180/blob/master/Exercise_09)
+- [ ] [Exercise_09](https://github.com/xyl00789/compuational_physics_N2014301020180/blob/master/Exercise_09)
 - [ ] [Exercise_10](https://github.com/xyl00789/compuational_physics_N2014301020180/blob/master/Exercise_10)
 - [ ] [Exercise_11](https://github.com/xyl00789/compuational_physics_N2014301020180/blob/master/Exercise_11)
 - [ ] [Exercise_12](https://github.com/xyl00789/compuational_physics_N2014301020180/blob/master/Exercise_12)
