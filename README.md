@@ -1,7 +1,7 @@
 # compuational_physics_N2014301020180
 student 许亚伦
 - [x] [Exercise_01](https://github.com/xyl00789/compuational_physics_N2014301020180/blob/master/Exercise_01:Make%20your%20own%20github%20account%20and%20add%20a%20README)
-- [ ] [Exercise_02](https://app.yinxiang.com/shard/s4/sh/6dffa3f7-8bfb-4993-b253-0a18cdf5a64c/b979d0d99457033cf42008b8464f941c)
+- [ ] [Exercise_02](https://www.zybuluo.com/xyl0078910/note/504468)
 - [ ] [Exercise_03](https://github.com/xyl00789/compuational_physics_N2014301020180/blob/master/Exercise_03)
 - [ ] [Exercise_04](https://github.com/xyl00789/compuational_physics_N2014301020180/blob/master/Exercise_04)
 - [ ] [Exercise_05](https://github.com/xyl00789/compuational_physics_N2014301020180/blob/master/Exercise_05)
