@@ -3,7 +3,7 @@ student 许亚伦
 - [x] Exercise_01 Make your own github account and a README
 - [x] [Exercise_02 Print your name](https://www.zybuluo.com/xyl0078910/note/504468)
 - [x] [Exercise_3.1](https://www.zybuluo.com/xyl00789/note/512947)and[Exercise_3.2](https://www.zybuluo.com/xyl00789/note/513041)
-- [x] [Exercise_04](https://www.zybuluo.com/xyl00789/note/525610)[code]()
+- [x] [Exercise_04](https://www.zybuluo.com/xyl00789/note/525610) and [code](https://github.com/xyl00789/compuational_physics_N2014301020180/blob/master/Exercise_04)
 - [ ] [Exercise_05](https://github.com/xyl00789/compuational_physics_N2014301020180/blob/master/Exercise_05)
 - [ ] [Exercise_06](https://github.com/xyl00789/compuational_physics_N2014301020180/blob/master/Exercise_06)
 - [ ] [Exercise_07](https://github.com/xyl00789/compuational_physics_N2014301020180/blob/master/Exercise_07)
