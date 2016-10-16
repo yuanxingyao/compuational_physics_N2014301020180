@@ -4,7 +4,7 @@ student 许亚伦
 - [x] [Exercise_02 Print your name](https://www.zybuluo.com/xyl0078910/note/504468)
 - [x] [Exercise_3.1](https://www.zybuluo.com/xyl00789/note/512947)and[Exercise_3.2](https://www.zybuluo.com/xyl00789/note/513041)
 - [x] [Exercise_04](https://www.zybuluo.com/xyl00789/note/525610) and [code](https://github.com/xyl00789/compuational_physics_N2014301020180/blob/master/Exercise_04)
-- [x] [Exercise_05](http://www.evernote.com/l/Ak77beEwj5xNw4FZzrfi6CJ2CdSEIxoothw/)
+- [x] [Exercise_05](http://www.evernote.com/l/Ak77beEwj5xNw4FZzrfi6CJ2CdSEIxoothw/)  I chose the problem 2.9 as my work
 - [ ] [Exercise_06](https://github.com/xyl00789/compuational_physics_N2014301020180/blob/master/Exercise_06)
 - [ ] [Exercise_07](https://github.com/xyl00789/compuational_physics_N2014301020180/blob/master/Exercise_07)
 - [ ] [Exercise_08](https://github.com/xyl00789/compuational_physics_N2014301020180/blob/master/Exercise_08)
