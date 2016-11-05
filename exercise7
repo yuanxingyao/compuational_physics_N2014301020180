@@ -1,0 +1,72 @@
+# -*- coding: utf-8 -*-
+"""
+Spyder Editor
+
+This is a temporary script file.
+"""
+
+
+
+import math
+import pylab as pl
+class harmonic:
+    def __init__(self, q_1,q_2):
+        self.n_uranium_A1 = [0]
+        self.n_uranium_B1= [0.2]
+        self.n_uranium_A2 = [0]
+        self.n_uranium_B2= [0.201]
+        self.a=[math.log(abs(0.201-0.2))]
+        self.t = [0]
+        self.g=9.8
+        self.length=1.0
+        self.dt = 0.04
+        self.time = [0]
+        self.nsteps = int(50// 0.04 + 1)
+        self.q_1 = q_1
+        self.q_2 = q_2
+        self.F=20.5
+        self.D=2/3
+    def calculate(self):
+        for i in range(self.nsteps):
+            self.n_uranium_A1.append(self.n_uranium_A1[i] -\
+            ((self.g/self.length)*math.sin(self.n_uranium_B1[i])+\
+            self.q_1*self.n_uranium_A1[i]-self.F*math.sin(self.D*self.t[i]))*self.dt)
+            self.n_uranium_B1.append(self.n_uranium_B1[i] + self.n_uranium_A1[i+1]*self.dt)
+            if self.n_uranium_B1[i+1]<-math.pi:
+                self.n_uranium_B1[i+1]=self.n_uranium_B1[i+1]+2*math.pi
+            if self.n_uranium_B1[i+1]>math.pi:
+                self.n_uranium_B1[i+1]=self.n_uranium_B1[i+1]-2*math.pi
+            else:
+                pass
+            self.n_uranium_A2.append(self.n_uranium_A2[i] -\
+            ((self.g/self.length)*math.sin(self.n_uranium_B2[i])+\
+            self.q_2*self.n_uranium_A2[i]-self.F*math.sin(self.D*self.t[i]))*self.dt)
+            self.n_uranium_B2.append(self.n_uranium_B2[i] + self.n_uranium_A2[i+1]*self.dt)
+            if self.n_uranium_B2[i+1]<-math.pi:
+                self.n_uranium_B2[i+1]=self.n_uranium_B2[i+1]+2*math.pi
+            if self.n_uranium_B2[i+1]>math.pi:
+                self.n_uranium_B2[i+1]=self.n_uranium_B2[i+1]-2*math.pi
+            else:
+                pass
+            self.t.append(self.t[i] + self.dt)
+            self.a.append(math.log(abs(self.n_uranium_B2[i+1]-self.n_uranium_B1[i+1])))
+    def show_results(self):
+        font = {'family': 'serif',
+                'color':  'darkred',
+                'weight': 'normal',
+                'size': 16,
+        }
+        pl.plot(self.t, self.a)
+        pl.title('$\Delta$$\theta$ versue time', fontdict = font)
+        pl.xlabel('time ($s$)')
+        pl.ylabel('$\Delta$$\Theta$($m$)')
+        pl.text(self.t[1000], self.a[1000],'$q2$ = '+str(self.q_2),fontdict = font) 
+a = harmonic(0.01,0.95)
+a.calculate()
+a.show_results()
+a = harmonic(0.50,0.95)
+a.calculate()
+a.show_results()
+a = harmonic(0.99,0.95)
+a.calculate()
+a.show_results()
