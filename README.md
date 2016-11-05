@@ -6,7 +6,7 @@ student 许亚伦
 - [x] [Exercise_04](https://www.zybuluo.com/xyl00789/note/525610) and [code](https://github.com/xyl00789/compuational_physics_N2014301020180/blob/master/Exercise_04)
 - [x] [Exercise_05](http://www.evernote.com/l/Ak77beEwj5xNw4FZzrfi6CJ2CdSEIxoothw/)  I chose the problem 2.9 as my work
 - [x] [Exercise_06](http://www.jianshu.com/p/78da1fef74a5?utm_campaign=maleskine&utm_content=note&utm_medium=writer_share)           enhenced 2.10_target at a point
-- [x] [Exercise_07]  Porblem3.14 (http://www.jianshu.com/p/1682a033d982?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=qq)
+- [x] [Exercise_07](http://www.jianshu.com/p/1682a033d982?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=qq)   
 - [ ] [Exercise_08](https://github.com/xyl00789/compuational_physics_N2014301020180/blob/master/Exercise_08)
 - [ ] [Exercise_09](https://github.com/xyl00789/compuational_physics_N2014301020180/blob/master/Exercise_09)
 - [ ] [Exercise_10](https://github.com/xyl00789/compuational_physics_N2014301020180/blob/master/Exercise_10)
